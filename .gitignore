@@ -1,6 +1,9 @@
 todo.md
 grading/*
 homeworks/*?olution*
+homeworks/*/?olution*
+homeworks/*.docx
+homeworks/*/*.docx
 misc
 participation
 overleaf.md
